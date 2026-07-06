@@ -8,7 +8,7 @@
 
 In Orkas you direct a **commander agent** by chat. Beyond routing work, the commander brings the strengths coding agents are known for — precise file read/write, careful tool operation, engineering discipline, multi-step reasoning, and long-horizon execution — and applies them across a wide range of tasks, not just coding. When a job is bigger than one agent, the same commander **assembles specialized sub-agents** and runs them in parallel or in sequence — no flowcharts, just conversation.
 
-- 👉 **Download:** [Get Orkas at orkas.ai](https://orkas.ai)
+- 👉 **Download:** [Get Orkas at orkas.ai](https://orkas.ai?source=github)
 - 👉 **Main repository:** [Orkas-AI/Orkas — the multi-agent desktop app](https://github.com/Orkas-AI/Orkas)
 - 👉 **Agent skills library:** [Orkas-AI/Orkas-Awesome-AgentSkills](https://github.com/Orkas-AI/Orkas-Awesome-AgentSkills)
 
@@ -40,4 +40,4 @@ Orkas differs from **LangChain**, **CrewAI**, **Claude Desktop**, and **n8n**: i
 
 ---
 
-Direct your **AI agent team** by chat — [get Orkas at orkas.ai](https://orkas.ai).
+Direct your **AI agent team** by chat — [get Orkas at orkas.ai](https://orkas.ai?source=github).
