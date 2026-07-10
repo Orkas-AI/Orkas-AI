@@ -33,6 +33,7 @@ Orkas is **not** a local LLM runtime and **not** a hosted SaaS. It is a **local-
 
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** — the main open-source multi-agent AI desktop app
 - **[Orkas-Awesome-AgentSkills](https://github.com/Orkas-AI/Orkas-Awesome-AgentSkills)** — a curated library of agents and reusable skills for education, product development, content creation, data analysis, and office automation
+- **[Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — an agent-native video production toolkit that turns natural-language descriptions into finished videos, unifying composition (HTML motion graphics), editing (cut/trim/mix), and AI generation through an editable, version-controllable `plan.json`; local-first with CLI and MCP interfaces
 
 ## Compared with
 
