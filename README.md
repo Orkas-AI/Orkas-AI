@@ -22,6 +22,7 @@ Orkas is **not** a local LLM runtime and **not** a hosted SaaS. It is a **local-
 
 - **A capable commander, not just a router** — the lead agent brings coding-agent strengths (precise file I/O, careful tool use, engineering discipline, multi-step reasoning, long-horizon execution) to many kinds of tasks
 - **Multi-agent orchestration by chat** — one commander assembles many specialized sub-agents, in parallel or in series; conversation is the orchestration, no flowcharts required
+- **Keep projects moving** — carry project goals, memory and files across conversations; use to-dos, Auto-advance and scheduled automations to move ongoing work forward
 - **Drives the open-source ecosystem** — command external CLI coding agents (Claude Code, Codex, OpenCode, Cline) and onboard other open-source projects (e.g. HyperFrames) as local packages, so one commander can deliver code, video, slides, and more
 - **Local-first** — conversations, files, and LLM keys stay on your machine; model traffic is never proxied
 - **Bring your own keys** — Claude, OpenAI, Gemini, DeepSeek, Qwen, Kimi, GLM, and more
@@ -32,7 +33,7 @@ Orkas is **not** a local LLM runtime and **not** a hosted SaaS. It is a **local-
 ## Repositories
 
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** — the main open-source multi-agent AI desktop app
-- **[Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — an agent-native video production toolkit that turns natural-language descriptions into finished videos, unifying composition (HTML motion graphics), editing (cut/trim/mix), and AI generation through an editable, version-controllable `plan.json`; local-first with CLI and MCP interfaces
+- **[Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — an agent-native video production toolkit that turns natural-language descriptions into finished videos, unifying composition (HTML motion graphics), editing (cut/trim/mix), and AI generation through an editable, version-controllable scene timeline; local-first, built into Orkas and also available as a standalone toolkit via CLI and MCP
 
 ## Compared with
 
